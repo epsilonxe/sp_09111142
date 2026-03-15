@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Calculus 2 for Engineers
+title: Calculus for Engineers 2
 ---
 
-# Calculus 2 for Engineers
+# Calculus for Engineers 2
 
 ผู้สอน: รศ.ดร.พงศกร สุนทรายุทธ์
 
